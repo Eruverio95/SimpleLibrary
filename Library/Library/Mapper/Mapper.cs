@@ -20,6 +20,7 @@ namespace Library.Mapper
       CreateMap<UserCommandDto, User>();
       CreateMap<UserRole, UserRoleQueryDto>();
       CreateMap<UserRoleCommandDto, UserRole>();
+      //addchange
     }
   }
 }
